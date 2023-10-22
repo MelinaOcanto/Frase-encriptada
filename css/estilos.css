@@ -1,0 +1,17 @@
+body{
+    background: rgba(7, 214, 7, 0.584);
+    color: black;
+}
+
+
+.imagenTitulo{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+
+img{
+    width: 50px;
+    margin: 20px;
+}
